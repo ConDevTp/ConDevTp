@@ -1,7 +1,7 @@
 <!-- Branding Header -->
 <h1 align="center" style="font-weight:700; font-size: 3rem;">Con Dev</h1>
 <h3 align="center" style="font-weight:400; color:#888;">
-Front-End Developer • React.js Specialist • UI Engineer
+Front-End Developer • UI Engineer
 </h3>
 
 <p align="center" style="max-width:600px; margin:auto; font-size:1.1rem;">
